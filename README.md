@@ -285,5 +285,3 @@ The current verified result is **34 passed**. The standalone compatibility scrip
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
-#   W e b - R e c o n - A u t o m a t i o n - F r a m e w o r k  
- 
